@@ -1,0 +1,7 @@
+E:\Projects\RulesAssessment\RulesAssessment\bin\Debug\RulesAssessment.exe.config
+E:\Projects\RulesAssessment\RulesAssessment\bin\Debug\RulesAssessment.exe
+E:\Projects\RulesAssessment\RulesAssessment\bin\Debug\RulesAssessment.pdb
+E:\Projects\RulesAssessment\RulesAssessment\obj\Debug\RulesAssessment.csprojAssemblyReference.cache
+E:\Projects\RulesAssessment\RulesAssessment\obj\Debug\RulesAssessment.csproj.CoreCompileInputs.cache
+E:\Projects\RulesAssessment\RulesAssessment\obj\Debug\RulesAssessment.exe
+E:\Projects\RulesAssessment\RulesAssessment\obj\Debug\RulesAssessment.pdb
